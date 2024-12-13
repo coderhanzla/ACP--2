@@ -1,4 +1,4 @@
-mytuple = (1, 2, 3, 4, 5)
+mytuple = ( "Hanzla" , 11 , 40)
 
 mylist = list(mytuple)
 
